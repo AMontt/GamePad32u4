@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Joystick)(type Legacy)(uri "C:/Users/alanr/OneDrive/PCB Designs/PortableConsole/Joystick/COM-09032.lib")(options "")(descr COM-09032))
+)

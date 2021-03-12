@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Joystick)(type KiCad)(uri "C:/Users/alanr/OneDrive/PCB Designs/PortableConsole/Joystick")(options "")(descr COM-09032))
+  (lib (name Ferrite)(type KiCad)(uri "C:/Users/alanr/OneDrive/PCB Designs/PortableConsole/ferrite")(options "")(descr ""))
+)
